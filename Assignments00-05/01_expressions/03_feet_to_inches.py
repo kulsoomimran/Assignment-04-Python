@@ -2,9 +2,9 @@ def main():
 
     feet = float(input("Enter the number of feet: "))
 
-    inches = feet * 12
+    INCHES = feet * 12
 
-    print(f"{feet} feet is equal to {inches} inches")
+    print(f"{feet} feet is equal to {INCHES} inches")
 
 if __name__ == "__main__":
     main()
