@@ -29,3 +29,9 @@ Conditional statements allow decision-making in programs. This section explains 
 Loops enable repetitive tasks in Python. This section covers for and while loops, along with control flow mechanisms like break and continue.
 
 ---
+
+## 👨‍💻 Author
+
+Made with 💻 by [Kulsoom Imran]
+
+---
